@@ -1,2 +1,2 @@
 # Hyper-Driven-Framework
-Ui Automation: Java, Selenium, Maven, Modular-Hybrid, DataDriven
+Ui Automation: Java, Selenium, Maven, Modular, DataDriven Hybrid
