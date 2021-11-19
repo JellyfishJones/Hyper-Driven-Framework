@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="7585" started-at="2021-11-19T16:45:29 CST" finished-at="2021-11-19T16:45:37 CST">
+    <groups>
+    </groups>
+    <test name="BrowserTests" duration-ms="7585" started-at="2021-11-19T16:45:29 CST" finished-at="2021-11-19T16:45:37 CST">
+      <class name="ui.test.FFTest">
+        <test-method status="PASS" signature="FirefoxSetup()[pri:0, instance:ui.test.FFTest@610694f1]" name="FirefoxSetup" is-config="true" duration-ms="2" started-at="2021-11-19T16:45:29 CST" finished-at="2021-11-19T16:45:29 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxSetup -->
+        <test-method status="PASS" signature="FirefoxDriverSetup(java.lang.String)[pri:0, instance:ui.test.FFTest@610694f1]" name="FirefoxDriverSetup" duration-ms="7551" started-at="2021-11-19T16:45:29 CST" data-provider="searchData" finished-at="2021-11-19T16:45:37 CST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Blouse]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirefoxDriverSetup -->
+      </class> <!-- ui.test.FFTest -->
+    </test> <!-- BrowserTests -->
+  </suite> <!-- TestSuite -->
+</testng-results>
